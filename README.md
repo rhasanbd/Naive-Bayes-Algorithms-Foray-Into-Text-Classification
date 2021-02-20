@@ -29,8 +29,8 @@ Naive Bayes classifiers **require a small amount of training data** to estimate 
 Naive Bayes learners and classifiers can be **extremely fast** compared to more sophisticated methods. The time-efficiency is due to the decoupling of the class conditional feature distributions. It ensures that each distribution can be independently estimated as a one dimensional distribution. This in turn helps to alleviate problems stemming from the **curse of dimensionality**.
 
 
-
-    -- Notebook 1: we use the <strong> Multinomial and Multivariate Bernoulli NB </strong> classifiers.
-    -- Notebook 2: we use the <strong> Gaussian NB </strong> classifiers.
+## Notebooks
+    -- Notebook 1: we use the **Multinomial and Multivariate Bernoulli NB** classifiers.
+    -- Notebook 2: we use the **Gaussian NB** classifiers.
 
 
