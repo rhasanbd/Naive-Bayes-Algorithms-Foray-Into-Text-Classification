@@ -30,7 +30,7 @@ Naive Bayes learners and classifiers can be **extremely fast** compared to more 
 
 
 
-- Notebook 1: we use the <strong> Multinomial and Multivariate Bernoulli NB </strong> classifiers.
-- Notebook 2: we use the <strong> Gaussian NB </strong> classifiers.
+    -- Notebook 1: we use the <strong> Multinomial and Multivariate Bernoulli NB </strong> classifiers.
+    -- Notebook 2: we use the <strong> Gaussian NB </strong> classifiers.
 
 
