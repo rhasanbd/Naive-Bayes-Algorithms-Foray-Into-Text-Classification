@@ -2,7 +2,7 @@ If github in unable to render a Jupyter notebook, copy the link of the notebook 
 https://nbviewer.jupyter.org/
 
 
-# Naive Bayes Classifier - Text Classification - Multinomial, Bernoulli & Gaussian
+# Naive Bayes Classifier: Text Classification - Multinomial, Bernoulli & Gaussian
 
 In this notebook series we will learn how to apply the Naive Bayes algorithms for text classification. We will use a corpora of emails and classify them in one of the two classes: spam and non-spam (ham)
 
